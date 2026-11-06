@@ -1,0 +1,16 @@
+{
+  "name": "Resource Handoff",
+  "short_name": "Handoff",
+  "description": "A private, offline-first tool for mobile crisis workers to assemble and share local resource packages.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f1",
+  "theme_color": "#0a6a5f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
